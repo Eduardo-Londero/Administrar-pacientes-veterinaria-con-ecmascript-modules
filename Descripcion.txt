@@ -1,0 +1,8 @@
+Administrador de pacientes de veterinaria con ecmascript modules
+
+Es un administrador de pacientes con 6 campos por completar con validacion,
+Al agregar las citas el formulario se reinicia y se agrega la cita
+para administrarlas.
+Ademas podemos editar nuevamente cada cita agregando o cambiando 
+informacion de los pacientes.
+Ademas podemos eliminar las citas.
